@@ -1,11 +1,11 @@
-This package was debianized by Ana Beatriz Guerrero Lopez 
+This package was debianized by Ana Beatriz Guerrero Lopez
 <ana@ekaia.org> on Sat, 29 Oct 2005 11:08:43 +0000.
 
 It was downloaded from http://extragear.kde.org/apps/yakuake/
 
 Upstream Author: François Chazal <neptune3k@free.fr>
 		 Eike Hein <Eike Hein>
-		 
+
 This software is copyright:
 	Copyright (c) 2005 by François Chazal.
 	Copyright (c) 2006-2008 by Eike Hein.
@@ -32,4 +32,3 @@ on Debian systems, at /usr/share/common-licenses/GPL-2.
 
 The Debian packaging is Copyright (C) 2005-2009, Ana Beatriz Guerrero Lopez <ana@ekaia.org>
 and is licensed under the GPL, see above.
-
