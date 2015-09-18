@@ -8,6 +8,7 @@ yakuake (2.9.9-1.1) UNRELEASED; urgency=medium
   * Allow building the package in parallel.
   * Add libsoprano-dev as a build dependency, it used to get in by other
     build dependencies.
+  * Depend upon the new konsole4-kpart instead of konsole (Closes: #798986).
 
  -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Thu, 17 Sep 2015 21:09:42 -0300
 
