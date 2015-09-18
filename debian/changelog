@@ -6,6 +6,8 @@ yakuake (2.9.9-1.1) UNRELEASED; urgency=medium
   * Switch to debhelper compat 9, I'm more used to it's behavior.
   * Do not use pkg-kde-tools meant for using inside the team.
   * Allow building the package in parallel.
+  * Add libsoprano-dev as a build dependency, it used to get in by other
+    build dependencies.
 
  -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Thu, 17 Sep 2015 21:09:42 -0300
 

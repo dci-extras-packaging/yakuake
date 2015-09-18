@@ -5,6 +5,7 @@ Maintainer: Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>
 Build-Depends: cmake,
                debhelper (>= 9),
                kdelibs5-dev (>= 4:4.7.1),
+               libsoprano-dev,
                libx11-dev,
                libxrender-dev,
                pkg-kde-tools (>= 0.4.2)
