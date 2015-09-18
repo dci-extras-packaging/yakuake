@@ -2,6 +2,7 @@ yakuake (2.9.9-3) UNRELEASED; urgency=medium
 
   [ Lisandro Damián Nicanor Pérez Meyer ]
   * Put this package under the Debian KDE Extras Team's umbrella.
+  * Add Vcs-Git and Vcs-Browser entries.
 
  -- Debian KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>  Fri, 18 Sep 2015 12:02:25 -0300
 
