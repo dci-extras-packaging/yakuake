@@ -12,6 +12,7 @@ yakuake (2.9.9-2) UNRELEASED; urgency=medium
   * Add a watch file.
   * Remove menu file, we already provide a desktop entry.
   * Bump Standards-Version to 3.9.6, no changes required.
+  * Update debian/copyright.
 
  -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Thu, 17 Sep 2015 21:09:42 -0300
 
