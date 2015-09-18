@@ -9,7 +9,7 @@ Build-Depends: cmake,
                libx11-dev,
                libxrender-dev,
                pkg-kde-tools (>= 0.4.2)
-Standards-Version: 3.9.4
+Standards-Version: 3.9.6
 Homepage: http://extragear.kde.org/apps/yakuake/
 
 Package: yakuake
