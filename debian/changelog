@@ -1,12 +1,11 @@
-yakuake (2.9.9-3) UNRELEASED; urgency=medium
+yakuake (2.9.9-3) unstable; urgency=medium
 
-  [ Lisandro Damián Nicanor Pérez Meyer ]
   * Put this package under the Debian KDE Extras Team's umbrella.
   * Add Vcs-Git and Vcs-Browser entries.
   * Update Vcs-Browser and Homepage fields with Diederik de Haas's patches.
     Thanks! (Closes: #813936).
 
- -- Debian KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>  Fri, 18 Sep 2015 12:02:25 -0300
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Sun, 07 Feb 2016 00:00:41 -0300
 
 yakuake (2.9.9-2) unstable; urgency=medium
 
