@@ -33,7 +33,7 @@ Vcs-Browser: https://anonscm.debian.org/cgit/pkg-kde/kde-extras/yakuake.git/
 
 Package: yakuake
 Architecture: any
-Depends: konsole4-kpart, ${misc:Depends}, ${shlibs:Depends}
+Depends: konsole-kpart, ${misc:Depends}, ${shlibs:Depends}
 Description: Quake-style terminal emulator based on KDE Konsole technology
  YaKuake is inspired from the terminal in the Quake game: when you press a key
  (by default F12, but that can be changed) a terminal window slides down from

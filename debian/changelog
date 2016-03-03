@@ -1,10 +1,11 @@
-yakuake (3.0.2-2~) UNRELEASED; urgency=medium
+yakuake (3.0.2-0~) UNRELEASED; urgency=medium
 
   * New upstream release
   * Drop debian/docs
   * Switch to using kf5 debhelper sequence
+  * Switch to using konsole-kpart as a dependency
 
- -- Rohan Garg <rohan@kde.org>  Thu, 03 Mar 2016 15:59:59 +0100
+ -- Rohan Garg <rohan@kde.org>  Thu, 03 Mar 2016 19:32:11 +0100
 
 yakuake (2.9.9-3) unstable; urgency=medium
 
