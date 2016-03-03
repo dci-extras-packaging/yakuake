@@ -20,7 +20,7 @@ Build-Depends: cmake,
                libkf5notifyconfig-dev,
                libkf5parts-dev,
                libkf5widgetsaddons-dev,
-               libkf5windowsystem-dev
+               libkf5windowsystem-dev,
                libx11-dev,
                libxrender-dev,
                pkg-kde-tools (>= 0.4.2),
