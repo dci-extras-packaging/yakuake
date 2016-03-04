@@ -9,6 +9,7 @@ yakuake (3.0.2-0~) UNRELEASED; urgency=medium
   [ Lisandro Damián Nicanor Pérez Meyer ]
   * Remove seemingly unneeded build dependencies. They might be pulled in
     by other B-Ds.
+  * Update Standards-Version to 3.9.7, no changes required.
 
  -- Rohan Garg <rohan@kde.org>  Thu, 03 Mar 2016 19:32:11 +0100
 
