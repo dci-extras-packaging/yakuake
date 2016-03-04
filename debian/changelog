@@ -1,9 +1,14 @@
 yakuake (3.0.2-0~) UNRELEASED; urgency=medium
 
+  [ Rohan Garg ]
   * New upstream release
   * Drop debian/docs which is legacy from the KDE 4 version.
   * Switch to using kf5 debhelper sequence
   * Switch to using konsole-kpart as a dependency
+
+  [ Lisandro Damián Nicanor Pérez Meyer ]
+  * Remove seemingly uneeded build dependencies. They might be pulled in
+    by other B-Ds.
 
  -- Rohan Garg <rohan@kde.org>  Thu, 03 Mar 2016 19:32:11 +0100
 

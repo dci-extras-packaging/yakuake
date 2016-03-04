@@ -22,8 +22,6 @@ Build-Depends: cmake,
                libkf5widgetsaddons-dev,
                libkf5windowsystem-dev,
                libqt5x11extras5-dev,
-               libx11-dev,
-               libxrender-dev,
                pkg-kde-tools (>= 0.4.2),
                qtbase5-dev
 Standards-Version: 3.9.6
