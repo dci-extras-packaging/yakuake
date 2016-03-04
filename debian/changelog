@@ -7,7 +7,7 @@ yakuake (3.0.2-0~) UNRELEASED; urgency=medium
   * Switch to using konsole-kpart as a dependency
 
   [ Lisandro Damián Nicanor Pérez Meyer ]
-  * Remove seemingly uneeded build dependencies. They might be pulled in
+  * Remove seemingly unneeded build dependencies. They might be pulled in
     by other B-Ds.
 
  -- Rohan Garg <rohan@kde.org>  Thu, 03 Mar 2016 19:32:11 +0100
