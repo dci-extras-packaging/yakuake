@@ -1,4 +1,4 @@
-yakuake (3.0.2-0~) UNRELEASED; urgency=medium
+yakuake (3.0.2-1) unstable; urgency=medium
 
   [ Rohan Garg ]
   * New upstream release
@@ -11,7 +11,7 @@ yakuake (3.0.2-0~) UNRELEASED; urgency=medium
     by other B-Ds.
   * Update Standards-Version to 3.9.7, no changes required.
 
- -- Rohan Garg <rohan@kde.org>  Thu, 03 Mar 2016 19:32:11 +0100
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Fri, 04 Mar 2016 12:45:48 -0300
 
 yakuake (2.9.9-3) unstable; urgency=medium
 
