@@ -7,6 +7,7 @@ yakuake (3.0.4-0r1) UNRELEASED; urgency=medium
     - replace deprecated kio-dev with libkf5kio-dev
     - explicitly add libx11-dev
     - bump version of all frameworks to 5.29.0, needed at least for knewstuff
+  * Bump Standards-Version to 3.9.8, no changes required.
 
  -- Debian KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>  Sun, 18 Jun 2017 09:29:58 +0200
 
