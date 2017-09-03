@@ -28,8 +28,8 @@ Build-Depends: cmake,
                qtbase5-dev
 Standards-Version: 3.9.8
 Homepage: https://www.kde.org/applications/system/yakuake/
-Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/yakuake.git
-Vcs-Browser: https://anonscm.debian.org/cgit/pkg-kde/kde-extras/yakuake.git/
+Vcs-Git: https://anonscm.debian.org/git/pkg-kde/kde-extras/yakuake.git
+Vcs-Browser: https://anonscm.debian.org/cgit/pkg-kde/kde-extras/yakuake.git
 
 Package: yakuake
 Architecture: any
