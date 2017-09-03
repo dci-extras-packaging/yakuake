@@ -1,6 +1,6 @@
-yakuake (3.0.4-0r1) UNRELEASED; urgency=medium
+yakuake (3.0.4-1) unstable; urgency=medium
 
-  [ Pino Toscano ]
+  * Team upload.
   * New upstream release.
   * Update the build dependencies:
     - add libkf5wayland-dev on Linux only
@@ -10,7 +10,7 @@ yakuake (3.0.4-0r1) UNRELEASED; urgency=medium
   * Bump Standards-Version to 4.1.0, no changes required.
   * Update Vcs-* fields.
 
- -- Debian KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>  Sun, 18 Jun 2017 09:29:58 +0200
+ -- Pino Toscano <pino@debian.org>  Sun, 03 Sep 2017 23:39:10 +0200
 
 yakuake (3.0.2-1) unstable; urgency=medium
 
